@@ -1,8 +1,6 @@
-# kicad-template
+# Stinger Tug Core Electrical System
 
-This is a KiCad Template for git-controlled KiCad projects. A single repository can contain multiple KiCad projects, but they should be related to each other.
-
-Make sure to update this README with details for your project.
+This project includes source files for the Stinger Tug core electrical system.
 
 ## Usage
 Click `Use this template` in the top right corner of GitHub in order to create a new project repository.
