@@ -2,4 +2,8 @@ repositories:
   mrg_library:
     type: git
     url: https://github.com/gt-marine-robotics-group/kicad-libs.git
+    version: stinger
+  pico_library:
+    type: git
+    url: https://github.com/ncarandini/KiCad-RP-Pico.git
     version: main
