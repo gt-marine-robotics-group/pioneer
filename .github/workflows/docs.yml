@@ -25,9 +25,9 @@ jobs:
         # optional - prefix to output defined in config
         dir: pcb
         # optional - schematic file
-        schema: 'wayfarer/wayfarer.kicad_sch'
+        schema: 'mainboard/mainboard.kicad_sch'
         # optional - PCB design file
-        board: 'wayfarer/wayfarer.kicad_pcb'
+        board: 'mainboard/mainboard.kicad_pcb'
     - name: Setup Graphviz
       uses: ts-graphviz/setup-graphviz@v1
     - name: Install dependencies
