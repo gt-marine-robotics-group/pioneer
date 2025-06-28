@@ -1,4 +1,4 @@
-# Stinger Tug Core Electrical System
+# Pioneer Autopilot Board
 
 This project includes source files for the Stinger Tug core electrical system.
 
