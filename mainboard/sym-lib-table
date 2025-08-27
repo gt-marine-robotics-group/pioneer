@@ -1,5 +1,5 @@
 (sym_lib_table
   (version 7)
-  (lib (name "GTMRG-Boards")(type "KiCad")(uri "/var/home/fishy/Projects/mrg/stinger-electrical/libraries/mrg_library/symbols/GTMRG-Boards.kicad_sym")(options "")(descr ""))
-  (lib (name "Pi Pico")(type "KiCad")(uri "/var/home/fishy/Projects/mrg/stinger-electrical/libraries/pico_library/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "GTMRG-Boards")(type "KiCad")(uri "/var/home/fishy/Projects/stinger/pioneer/libraries/mrg_library/symbols/GTMRG-Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "Pi Pico")(type "KiCad")(uri "/var/home/fishy/Projects/stinger/pioneer/libraries/pico_library/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
 )
